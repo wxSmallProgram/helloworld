@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.0.4",
 	"appid": "wx7b3c71b97553b41c",
-	"projectname": "helloworld",
+	"projectname": "shop",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
